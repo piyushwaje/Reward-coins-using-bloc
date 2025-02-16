@@ -11,7 +11,7 @@ The **Hourly Scratch Card Reward Coin App** is an exciting rewards-based applica
 
 ## 📱 Demo
 (https://drive.google.com/file/d/1hbYZTG8H9jkRoRciuj_hBeUj9wlOwmxH/view?usp=sharing)
-<iframe src="https://drive.google.com/drive/folders/1Vzwb8bw9XqXhR5PXhnE3GVWsVXxAqVKp" width="640" height="360" allow="autoplay"></iframe>
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)
