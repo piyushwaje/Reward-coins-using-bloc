@@ -1,16 +1,19 @@
-# reward_coins
+# Hourly Scratch Card Reward Coin App
 
-A new Flutter project.
+## 📌 Overview
+The **Hourly Scratch Card Reward Coin App** is an exciting rewards-based application where users can scratch virtual cards every hour to earn reward coins. These coins can be accumulated and redeemed for exciting prizes, cashback, or other benefits.
 
-## Getting Started
+## 🚀 Features
+- 🎟️ **Hourly Scratch Cards** – Users can scratch a new card every hour.
+- 💰 **Earn Coins** – Win coins instantly after scratching.
+- 🎁 **Redeem Rewards** – Exchange coins for gifts, vouchers, or discounts.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- **Frontend:** Flutter (Dart)
+- **State Management:** Bloc
+- **Backend:** Firebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
