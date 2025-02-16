@@ -10,7 +10,7 @@ The **Hourly Scratch Card Reward Coin App** is an exciting rewards-based applica
 
 
 ## 📱 Demo
-(https://github.com/piyushwaje/Reward-coins-using-bloc/raw/main/demo/demo.mp4)
+(https://drive.google.com/file/d/1hbYZTG8H9jkRoRciuj_hBeUj9wlOwmxH/view?usp=sharing)
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)
 - **State Management:** Bloc
